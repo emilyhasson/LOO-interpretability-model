@@ -1,4 +1,3 @@
-(384, 1536)
 Review ID: 16917
 True Sentiment: Positive
 Model Predicted Probability: 0.9652
